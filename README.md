@@ -1,1 +1,8 @@
-# IBM_Applied_Data_Science_Capstone
+# IBM Applied Data Science Capstone
+* Table of content
+*Executive Summary*
+*Introduction*
+*Methodology*
+*Results*
+*Conclusion*
+*Appendix*
